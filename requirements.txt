@@ -1,0 +1,9 @@
+h5py==3.7.0
+lhereader==1.0.11
+matplotlib==3.6.2
+mplhep==0.3.26
+numpy==1.23.5
+pylhe==0.6.0
+PyYAML==6.0.1
+scipy==1.13.0
+tensorflow==2.9.0
